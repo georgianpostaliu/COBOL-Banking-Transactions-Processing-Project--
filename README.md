@@ -1,4 +1,4 @@
-# COBOL-Banking-Tranzactions-Processing-Project--
+# COBOL-Banking-Transactions-Processing-Project--
 
 This COBOL project is designed to process input records from an input file and generate output records based on specific business rules. The program reads data from INP-FILE and processes it, updating information from COM-FILE, and then writes the results to OUT-FILE and REP-FILE. Here's a detailed description of the project structure and logic:
 Project Structure:
